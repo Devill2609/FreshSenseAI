@@ -119,10 +119,4 @@ Then set `MODEL_LOADED = True` and restart Flask. Done! 🎉
 
 ---
 
-## 👥 Team
 
-| Name | Roll No |
-|------|---------|
-| Dev Yadav | 2024Btech051 |
-| Sujal Chouhan | 2024Btech038 |
-| Khushi Soni | 2024Btech053 |
